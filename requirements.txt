@@ -1,0 +1,5 @@
+git add .
+git commit -m "Remove force subscription channel check"
+git push origin main
+python-telegram-bot>=20.0
+httpx>=0.24.0
